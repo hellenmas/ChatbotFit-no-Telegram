@@ -9,4 +9,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Javascript 💻️NodeJS
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
